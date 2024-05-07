@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "12345678",
+    "role": "Admin"
+  },
+  {
+    "username": "septirizky",
+    "email": "septirizky@gmail.com",
+    "password": "12345678",
+    "role": "Staff"
+  },
+  {
+    "username": "pristiwan",
+    "email": "pristiwan@gmail.com",
+    "password": "12345678",
+    "role": "Staff"
+  },
+  {
+    "username": "rizki",
+    "email": "rizki@gmail.com",
+    "password": "12345678",
+    "role": "Customer"
+  }
+]

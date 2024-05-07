@@ -1,0 +1,191 @@
+[
+  {
+    "name": "KLEPPSTAD",
+    "description": "Ringkas dan pintar! Yang Anda butuhkan hanya lemari pakaian dengan semua fungsi dasar. Jika ruang penyimpanan masih tidak cukup, mengapa tidak menambahkan lemari pakaian lain dari seri KLEPPSTAD?",
+    "price": 2500000,
+    "stock": 5,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/235/0823547_PE775917_S5.webp",
+    "categoryId": 1,
+    "userId": 3
+  },
+  {
+    "name": "GURSKEN",
+    "description": "Lemari pakaian GURSKEN memiliki desain yang sederhana dan bersih – sempurna untuk perabotan di apartemen atau kamar tamu dengan cepat dan mudah. Cocok dengan meja samping tempat tidur, lemari laci, dan tempat tidur dalam seri yang sama!",
+    "price": 1500000,
+    "stock": 15,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/239/0923964_PE788459_S4.jpg",
+    "categoryId": 1,
+    "userId": 3
+  },
+  {
+    "name": "UPPFYLLD",
+    "description": "Saringan memiliki ukuran cukup besar untuk mencuci beragam bahan makanan, mulai dari sayuran hingga buah-buahan. Terbuat dari baja tahan karat sehingga awet digunakan sehari-hari.",
+    "price": 800000,
+    "stock": 75,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/126/0712689_PE728974_S3.webp",
+    "categoryId": 2,
+    "userId": 2
+  },
+  {
+    "name": "KAVALKAD",
+    "description": "Terbuat dari aluminium, sehingga panas dapat disebarkan dengan rata dan hemat energi, memudahkan mengatur panas sehingga makanan tidak gosong dan melekat.",
+    "price": 200000,
+    "stock": 25,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/723/1172370_PE893300_S4.webp",
+    "categoryId": 2,
+    "userId": 2
+  },
+  {
+    "name": "VÅGSTRANDA",
+    "description": "Kasur keras dengan pegas saku lapis ganda inovatif setinggi 28 cm. Anda mendapatkan kenyamanan dan dukungan sempurna dari zona nyaman yang menyesuaikan dengan tubuh Anda. Lapisan busa yang tebal menambah kenyamanan Anda.",
+    "price": 9000000,
+    "stock": 10,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/508/1150860_PE884902_S4.webp",
+    "categoryId": 3,
+    "userId": 2
+  },
+  {
+    "name": "VATNESTRÖM",
+    "description": "Kasur keras dengan pegas saku lapis ganda inovatif setinggi 28 cm. Anda mendapatkan kenyamanan dan dukungan sempurna dari zona nyaman yang menyesuaikan dengan tubuh Anda. Lapisan busa yang tebal menambah kenyamanan Anda.",
+    "price": 12000000,
+    "stock": 20,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/106/0810694_PE771377_S4.webp",
+    "categoryId": 3,
+    "userId": 3
+  },
+  {
+    "name": "ÅGOTNES",
+    "description": "Kasur keras dengan pegas saku lapis ganda inovatif setinggi 28 cm. Anda mendapatkan kenyamanan dan dukungan sempurna dari zona nyaman yang menyesuaikan dengan tubuh Anda. Lapisan busa yang tebal menambah kenyamanan Anda.",
+    "price": 1000000,
+    "stock": 20,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/866/0986609_PE818096_S4.jpg",
+    "categoryId": 3,
+    "userId": 2
+  },
+  {
+    "name": "BRUKSVARA",
+    "description": "Alas kasur yang mudah dirawat, sangat pas dan menambah lapisan kenyamanan lembut sekaligus menjaga kasur Anda tetap bersih dan segar.",
+    "price": 500000,
+    "stock": 40,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/820/1182079_PE896967_S4.webp",
+    "categoryId": 3,
+    "userId": 2
+  },
+  {
+    "name": "ÄPPLARYD",
+    "description": "Sofa ÄPPLARYD akan menjadi oase nyaman di rumah Anda. Menarik mata yang mencerminkan kepribadian dan gaya Anda. Bagus untuk duduk, berbaring dan berkumpul bersama serta dengan banyak ruang untuk seluruh keluarga, tahun demi tahun.",
+    "price": 25000000,
+    "stock": 4,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/104/1010447_PE828072_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "BACKSÄLEN",
+    "description": "Sofa ini nyaman dilihat dan diduduki. Desainnya mengundang, tempat duduk yang dalam dan sandaran tinggi serta sandaran lengan memeluk Anda – sarungnya juga sangat mudah dilepas dan dicuci.",
+    "price": 5000000,
+    "stock": 4,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/506/0950612_PE800541_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "VIMLE",
+    "description": "Seri sofa VIMLE memiliki bagian-bagian yang dapat digabungkan sesuai keinginan Anda menjadi solusi khusus untuk Anda dan rumah Anda - dan hidup Anda berubah, Anda dapat melengkapi sofa dan membiarkannya berubah bersama Anda.",
+    "price": 8000000,
+    "stock": 9,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/518/0951873_PE801412_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "KLIPPAN",
+    "description": "Kami meluncurkan sofa KLIPPAN pada 1980-an dan sampai sekarang masih menjadi favorit. Nyaman, pas hampir di mana-mana dan memiliki banyak sarung untuk dipilih. Klasik modern dan abadi!",
+    "price": 4000000,
+    "stock": 6,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/629/0562963_PE663653_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "LINANÄS",
+    "description": "Transportasi cerdas adalah tujuan kami menciptakan sofa 2 dudukan yang nyaman dengan kain poliester krem yang tahan lama ini. Dan kami berhasil! Muat di mobil dan dapat langsung Anda bawa pulang. Harganya? Tentu saja terjangkau.",
+    "price": 2700000,
+    "stock": 7,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/721/0972125_PE811545_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "LIDÅS",
+    "description": "Anda dapat duduk dengan nyaman berkat kursi yang dapat dilipat dan sandaran yang fleksibel. Bahan lap bersih dalam sekejap. Pilih warna favorit Anda untuk tampilan pribadi atau kenapa tidak mencampurkan warna?",
+    "price": 700000,
+    "stock": 27,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/063/1106338_PE868678_S4.webp",
+    "categoryId": 4,
+    "userId": 3
+  },
+  {
+    "name": "SIGTRYGG",
+    "description": "Kursi ini dibentuk untuk kenyamanan dan kesejahteraan Anda dengan penyangga pinggang yang baik dan fleksibilitas sandaran yang nyaman. Tersedia dalam berbagai pelapis veneer kayu yang sesuai dengan selera Anda dan perabot lainnya.",
+    "price": 600000,
+    "stock": 14,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/119/1111907_PE871017_S4.webp",
+    "categoryId": 4,
+    "userId": 2
+  },
+  {
+    "name": "YNGVAR",
+    "description": "Anda dapat duduk dengan nyaman berkat ukuran yang besar dan bentuk yang lembut dari dudukan dan peyangga punggung.",
+    "price": 1600000,
+    "stock": 11,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/142/0714284_PE730016_S4.webp",
+    "categoryId": 4,
+    "userId": 2
+  },
+  {
+    "name": "BRIMNES",
+    "description": "Kaca baur bagian atas lemari laci menciptakan kesan yang beda - tempatkan lemari laci sendiri atau tegaskan tampilan dengan menempatkan dua atau lebih lemari laci berdampingan. Sst! Mohon ditempelkan ke dinding.",
+    "price": 3300000,
+    "stock": 8,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/516/0651663_PE707005_S4.webp",
+    "categoryId": 1,
+    "userId": 2
+  },
+  {
+    "name": "SONGESAND",
+    "description": "Desain klasik dengan bagian depan laci berpanel tidak pernah ketinggalan zaman. Sst! Kencangkan ke dinding.",
+    "price": 300000,
+    "stock": 3,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/522/0552205_PE658938_S4.webp",
+    "categoryId": 1,
+    "userId": 3
+  },
+  {
+    "name": "VIHALS",
+    "description": "Rangka mudah dipasang berkat desain dengan wedge dowel yang dengan mudah dimasukkan ke lubang yang telah dibor sebelumnya.",
+    "price": 5400000,
+    "stock": 6,
+    "imgUrl": "//d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/136/1113603_PE871503_S4.webp",
+    "categoryId": 1,
+    "userId": 3
+  },
+  {
+    "name": "EKET",
+    "description": "Hiasi dinding Anda dengan EKET! Ciptakan solusi penyimpanan klasik hanya dengan beberapa kabinet atau gabungkan sesuai keinginan Anda dengan cara yang menyenangkan dan spontan dan buat ruang terasa lebih personal.",
+    "price": 300000,
+    "stock": 13,
+    "imgUrl": "d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/327/1132791_PE878303_S4.webp",
+    "categoryId": 1,
+    "userId": 3
+  },
+  {
+    "name": "GOKVÄLLÅ",
+    "description": "Mangkuk kecil berisi makanan lezat Anda ini pasti akan membuat para tamu Anda tergoda. Bagian dari koleksi GOKVÄLLÅ di mana terdapat lebih banyak porselen yang dihiasi dengan lengkungan bunga berwarna terakota.",
+    "price": 130000,
+    "stock": 77,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/505/1250585_PE923859_S4.webp",
+    "categoryId": 1,
+    "userId": 2
+  }
+]
